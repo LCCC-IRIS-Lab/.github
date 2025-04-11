@@ -20,7 +20,7 @@ To empower innovation, creativity, and learning through immersive technologies, 
 
 ## 👷‍♂️ Projects
 
--**[Coming Soon]**
+- **[Coming Soon]**
 
 ## 📫 Contact
 
