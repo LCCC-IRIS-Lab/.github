@@ -18,6 +18,10 @@ To empower innovation, creativity, and learning through immersive technologies, 
 - Human-computer interaction in immersive environments
 - Research in accessibility and ethical XR practices
 
+## 👷‍♂️ Projects
+
+-**[Coming Soon]**
+
 ## 📫 Contact
 
 For more information, reach out to us:
