@@ -1,12 +1,31 @@
-## Hi there 👋
+# IRIS Lab – Immersive Reality Innovation Space
 
-<!--
+**Lorain County Community College**
 
-**Here are some ideas to get you started:**
+Welcome to the **Immersive Reality Innovation Space (IRIS Lab)** — a forward-thinking research group based at **Lorain County Community College**, focused on exploring and advancing the use of **Extended Reality (XR)** technologies.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 About Us
+
+IRIS Lab brings together students, educators, and technologists to investigate the possibilities of XR (Augmented Reality, Virtual Reality, and Mixed Reality). We create immersive experiences and contribute to the growing field of immersive tech through research, experimentation, and collaboration.
+
+## 🎯 Our Mission
+
+To empower innovation, creativity, and learning through immersive technologies, and to prepare the next generation of XR developers and researchers by providing hands-on experience in a collaborative lab environment.
+
+## 🛠️ Areas of Focus
+
+- XR development for education, training, and simulation
+- Human-computer interaction in immersive environments
+- Research in accessibility and ethical XR practices
+
+## 🤝 Get Involved
+
+We welcome collaboration and are always looking for new ideas, contributors, and research partners. Whether you're a student, developer, educator, or XR enthusiast — there's a place for you at IRIS Lab.
+
+## 📫 Contact
+
+For more information, reach out to us:
+
+- **Website**: [Coming Soon]
+- **Location**: Lorain County Community College, Elyria, OH
+
