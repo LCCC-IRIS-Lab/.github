@@ -18,10 +18,6 @@ To empower innovation, creativity, and learning through immersive technologies, 
 - Human-computer interaction in immersive environments
 - Research in accessibility and ethical XR practices
 
-## 🤝 Get Involved
-
-We welcome collaboration and are always looking for new ideas, contributors, and research partners. Whether you're a student, developer, educator, or XR enthusiast — there's a place for you at IRIS Lab.
-
 ## 📫 Contact
 
 For more information, reach out to us:
