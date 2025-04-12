@@ -1,7 +1,7 @@
 
 ![IRIS_Lab_Logo](https://github.com/user-attachments/assets/2e3ffa02-f04d-4baa-ad09-17d7f3e458ce)
 
-![Profile views](https://komarev.com/ghpvc/?username=LCCC-IRIS-Lab)
+![Profile views](https://komarev.com/ghpvc/?username=LCCC-IRIS-Lab$color=orange)
 
 # IRIS Lab – Immersive Reality Innovation Space
 
