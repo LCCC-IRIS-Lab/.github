@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/e25f717f-90b6-4395-b5b4-20d241910fbd#gh-light-mode-only" height="120" width="120"/>
-    <img src="https://github.com/user-attachments/assets/d4fe295b-0765-499f-a8d4-c31188e86c84#gh-dark-mode-only" height="120" width="120"/>
+    <img src="https://github.com/user-attachments/assets/e25f717f-90b6-4395-b5b4-20d241910fbd#gh-light-mode-only"/>
+    <img src="https://github.com/user-attachments/assets/d4fe295b-0765-499f-a8d4-c31188e86c84#gh-dark-mode-only"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=LCCC-IRIS-Lab&color=orange&style=flat-square&label=Organization+Views&abbreviated=true)
