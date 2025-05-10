@@ -4,6 +4,8 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=LCCC-IRIS-Lab&color=orange&style=flat-square&label=Organization+Views&abbreviated=true)
+<img src="https://komarev.com/ghpvc/?username=LCCC-IRIS-Lab&style=plastic&color=orange&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/LCCC-IRIS-Lab/LCCC-IRIS-Lab?color=black&logo=github" />
 
 # IRIS Lab – Immersive Reality Innovation Space
 
