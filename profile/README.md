@@ -3,8 +3,10 @@
     <img src="https://github.com/user-attachments/assets/d4fe295b-0765-499f-a8d4-c31188e86c84#gh-dark-mode-only"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=LCCC-IRIS-Lab&style=plastic&color=orange&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/LCCC-IRIS-Lab/LCCC-IRIS-Lab?color=black&logo=github" />
+< align="center">
+    <img src="https://komarev.com/ghpvc/?username=LCCC-IRIS-Lab&style=plastic&color=orange&label=Views"><img>
+    <img src="https://badges.pufler.dev/visits/LCCC-IRIS-Lab/LCCC-IRIS-Lab?color=black&logo=github" />
+</p>
 
 # IRIS Lab – Immersive Reality Innovation Space
 
