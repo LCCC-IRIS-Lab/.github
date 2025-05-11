@@ -8,8 +8,6 @@
     <img src="https://badges.pufler.dev/visits/LCCC-IRIS-Lab/LCCC-IRIS-Lab?color=black&logo=github" />
 </p>
 
-# IRIS Lab – Immersive Reality Innovation Space
-
 **Lorain County Community College**
 
 Welcome to the **Immersive Reality Innovation Space (IRIS Lab)** — a forward-thinking research group based at **Lorain County Community College**, focused on exploring and advancing the use of **Extended Reality (XR)** technologies.
