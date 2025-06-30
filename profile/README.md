@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <strong>Welcome to the <span style="color : #FF7F50">Immersive Reality Innovation Space (IRIS Lab)</span></strong><br>
+  <strong>Welcome to the <span style="color : #FF7F50;">Immersive Reality Innovation Space (IRIS Lab)</span></strong><br>
   A forward-thinking research group at <strong>Lorain County Community College</strong>, focused on advancing <strong>Extended Reality (XR)</strong> technologies.
 </p>
 
