@@ -43,6 +43,6 @@ For more information, reach out to us:
 - [IRIS Lab](https://www.lorainccc.edu/campana/iris-lab/)
 - [Virtual Reality Cave](https://www.lorainccc.edu/campana/virtual-reality-cave/)
 
-**Location**
+**Location**\
 Lorain County Community College, Elyria, OH
 
