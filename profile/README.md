@@ -16,7 +16,7 @@
 </p>
 
 ---
-
+<!--
 ## 🚀 About Us
 
 IRIS Lab brings together students, educators, and technologists to investigate the possibilities of XR (Augmented Reality, Virtual Reality, and Mixed Reality). We create immersive experiences and contribute to the growing field of immersive tech through research, experimentation, and collaboration.
@@ -42,4 +42,4 @@ For more information, reach out to us:
 **Website** 
 - [IRIS Lab](https://www.lorainccc.edu/campana/iris-lab/)
 - [Virtual Reality Cave](https://www.lorainccc.edu/campana/virtual-reality-cave/)
-
+--->
